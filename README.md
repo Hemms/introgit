@@ -1,1 +1,1 @@
-# introgit
+# Introduction to Git and GitHub
